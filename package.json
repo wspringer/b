@@ -1,0 +1,14 @@
+{
+  "name": "b",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "install": "coffee -c -o lib/ src"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "coffee-script": "^1.10.0"
+  }
+}
