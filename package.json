@@ -4,7 +4,7 @@
   "description": "",
   "main": "lib/index.js",
   "scripts": {
-    "install": "coffee -c -o lib/ src"
+    "postinstall": "coffee -c -o lib/ src"
   },
   "author": "",
   "license": "ISC",
